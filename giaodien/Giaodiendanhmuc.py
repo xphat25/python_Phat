@@ -63,7 +63,7 @@ def on_select(event):
 
 # GIAO DIỆN TKINTER
 root = tk.Tk()
-root.title("Quản lý Danh mục Sản phẩm")
+root.title("Quản lý Danh mục thuốc")
 root.geometry("700x400")
 root.resizable(False, False)
 
